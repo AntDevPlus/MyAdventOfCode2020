@@ -2,5 +2,6 @@
 
 | Day           |     Language    |
 | ------------- |  -------------: |
-|      1        |       ruby      |
-|      2        |       ruby      |
+|      1        |       Ruby      |
+|      2        |       Ruby      |
+|      3        |       Ruby      |
